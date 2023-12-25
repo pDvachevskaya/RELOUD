@@ -1,0 +1,283 @@
+@media only screen and (min-width: 1440px) {
+    /* Desktop */
+    
+  p, h6, h5 {font-size: font-size: 1.6vw;}
+
+  .r100, .naviezd {font-size: font-size: 1.6vw;}
+
+  .naviezd {
+    left: 10vw;
+  }
+
+  .r100 {
+    right: 10vw;
+  }
+
+  
+  }
+
+
+
+  @media only screen and (min-width: 1366px) and (max-width: 1440px) {
+    /* iPad */
+
+    p, h6, h5 {font-size: font-size: 1.6vw;}
+    .r100, .naviezd {font-size: font-size: 1.6vw;}
+
+    .naviezd {
+      left: 10vw;
+    }
+
+    .r100 {
+      right: 10vw;
+    }
+
+  }
+
+
+
+  @media only screen and (min-width: 1024px) and (max-width: 1366px) {
+    /* iPad */
+
+    p, h6, h5 {font-size: font-size: 1.6vw;}
+    .r100, .naviezd {font-size: font-size: 1.6vw;}
+
+    .naviezd {
+      left: 10vw;
+    }
+
+  }
+
+
+  
+  @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+    /* iPad Portrait */
+
+    p, h6, h5 {font-size: font-size: 1.6vw;}
+    .r100, .naviezd {font-size: font-size: 1.6vw;}
+
+    .naviezd {
+      left: 10vw;
+    }
+
+  }
+
+
+  @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    /* iPad Landscape */
+
+    p, h6, h5 { font-size: 1.8vw;
+    }
+    .r100, .naviezd {font-size: font-size: 1.7vw;}
+
+    .naviezd {
+      left: 9vw;
+    }
+
+    .r100 {
+      right: 9vw;
+    }
+
+    .v4 {
+      left: 35vw;
+    }
+
+    .v5{
+      position: absolute;
+      top: 22vw;
+      left: 12vw;
+     }
+
+     .v6{
+      position: absolute;
+      top: 11vw;
+      left: 32vw;
+     }
+
+     .v8{
+      position: absolute;
+      top: 11vw;
+      left: 32vw;
+     }
+
+     .k4 {
+      left: 85vw;
+     }
+
+     @keyframes mov1 {
+      0% {width: 0vw;}
+      100% {width: 13vw;}
+    }
+
+    .n6 {
+      left: 85vw;
+    }
+
+    .mini6{
+      left: 84vw;
+    }
+
+  }
+  
+  @media only screen and (min-width: 414px) and (max-width: 768px) {
+    /* iPhone */
+
+    p, h6, h5 {
+      font-size: 1.8vw;
+    }
+
+    .r100, .naviezd {font-size: font-size: 1.7vw;}
+    .naviezd {
+      left: 7.5vw;
+    }
+
+    .r100 {
+      right: 7vw;
+    }
+
+    .v4 {
+      left: 35vw;
+    }
+
+    .v5{
+      position: absolute;
+      top: 22vw;
+      left: 12vw;
+     }
+
+     .v6{
+      position: absolute;
+      top: 11vw;
+      left: 32vw;
+     }
+
+     .v8{
+      position: absolute;
+      top: 11vw;
+      left: 32vw;
+     }
+
+     .r101 {
+      left: 2vw;
+     }
+
+     .b1{
+      top: 4.5vw;
+      }
+ 
+      .b2{
+      top: 3.5vw;
+      }
+
+      .k2{
+        top: 5vw;
+        }
+   
+        .p3 {
+         top: 4.5vw;
+        }
+
+        .k4 {
+          left: 85vw;
+         }
+
+         @keyframes mov1 {
+          0% {width: 0vw;}
+          100% {width: 13vw;}
+        }
+
+        @keyframes mov2 {
+          0% {width: 0vw;}
+          100% {width: 8vw;} }
+
+  .n6 {
+    left: 85vw;
+  }
+
+  .mini6{
+    left: 84vw;
+  }
+
+}
+  
+  @media only screen and (min-width: 360px) and (max-width: 414px) and (orientation: portrait) {
+    /* iPhone Portrait */
+
+    p, h6, h5 {
+      font-size: 1.8vw;
+    }
+
+    .r100, .naviezd {font-size: font-size: 1.7vw;}
+
+    .naviezd {
+      left: 6vw;
+    }
+
+    .r100 {
+      right: 6vw;
+    }
+
+    .v4 {
+      left: 35vw;
+    }
+
+    .v5{
+      position: absolute;
+      top: 22vw;
+      left: 12vw;
+     }
+
+     .v6{
+      position: absolute;
+      top: 11vw;
+      left: 32vw;
+     }
+
+     .v8{
+      position: absolute;
+      top: 11vw;
+      left: 32vw;
+     }
+
+     .r101 {
+      left: 2vw;
+     }
+    
+     .b1{
+     top: 4.5vw;
+     }
+
+     .b2{
+     top: 3.5vw;
+     }
+
+     .k2{
+     top: 5vw;
+     }
+
+     .p3 {
+      top: 4.5vw;
+     }
+
+     .k4 {
+      left: 85vw;
+     }
+
+     @keyframes mov1 {
+      0% {width: 0vw;}
+      100% {width: 13vw;}
+    }
+
+    @keyframes mov2 {
+      0% {width: 0vw;}
+      100% {width: 8vw;}
+  }
+
+  .n6 {
+    left: 85vw;
+  }
+
+  .mini6{
+    left: 84vw;
+  }
+  

@@ -1,0 +1,9 @@
+@import 'reset.css';
+@import 'content.css';
+@import 'responsive.css';
+@font-face {
+  font-family: "Golos UI Regular";
+  src: local("Golos UI Regular"),
+    url("fonts/golos-ui_regular.ttf") format("ttf");
+    font-style: normal;
+}
